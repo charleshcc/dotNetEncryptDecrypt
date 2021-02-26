@@ -1,0 +1,17 @@
+D:\simple_code\dotNetEncryptDecrypt\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\simple_code\dotNetEncryptDecrypt\bin\Debug\netcoreapp2.1\appsettings.json
+D:\simple_code\dotNetEncryptDecrypt\bin\Debug\netcoreapp2.1\dotNetEncryptDecrypt.deps.json
+D:\simple_code\dotNetEncryptDecrypt\bin\Debug\netcoreapp2.1\dotNetEncryptDecrypt.runtimeconfig.json
+D:\simple_code\dotNetEncryptDecrypt\bin\Debug\netcoreapp2.1\dotNetEncryptDecrypt.runtimeconfig.dev.json
+D:\simple_code\dotNetEncryptDecrypt\bin\Debug\netcoreapp2.1\dotNetEncryptDecrypt.dll
+D:\simple_code\dotNetEncryptDecrypt\bin\Debug\netcoreapp2.1\dotNetEncryptDecrypt.pdb
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.csprojAssemblyReference.cache
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.AssemblyInfoInputs.cache
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.AssemblyInfo.cs
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.csproj.CoreCompileInputs.cache
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.RazorAssemblyInfo.cache
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.RazorAssemblyInfo.cs
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.RazorTargetAssemblyInfo.cache
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.dll
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.pdb
+D:\simple_code\dotNetEncryptDecrypt\obj\Debug\netcoreapp2.1\dotNetEncryptDecrypt.genruntimeconfig.cache
