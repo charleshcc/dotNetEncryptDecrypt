@@ -1,6 +1,7 @@
 # dotNetEncryptDecrypt
 
 dot Net core Encrypt/Decrypt RSA and AES
+
 In ReactJS RSA encrypt:
 ```
 sa = (str) => {
